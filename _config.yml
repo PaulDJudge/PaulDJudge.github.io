@@ -1,5 +1,14 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Paul's Site
+desription: A website for a github exercise
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-cayman
+url: pauldjudge.github.io
+
+#markdown settings
+
+markdown: kramdown
+show_downlaods: true
+
+#Google Services
+
+google_analytics :
