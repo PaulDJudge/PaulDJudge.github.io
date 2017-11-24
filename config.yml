@@ -1,0 +1,14 @@
+title: Paul's Site
+desription: A website for a github exercise
+show_downloads: true
+theme: jekyll-theme-cayman
+url: pauldjudge.github.io
+
+#markdown settings
+
+markdown: kramdown
+show_downlaods: true
+
+#Google Services
+
+google_analytics :
